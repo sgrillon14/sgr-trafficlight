@@ -14,5 +14,5 @@ Yes, you can. You can use it to make monitoring of your continuous integration p
 
 ![demo4JenkinsVersionsInProduction](/screenshots/demo4JenkinsVersionsInProduction.jpg)
 
-## Licensing
+## License
 BSD, See License.txt for details
