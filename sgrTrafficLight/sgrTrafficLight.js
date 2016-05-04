@@ -35,7 +35,7 @@ var sgrTrafficLight = function () {
 				console.log("value: " + value);
 				if(value=="OK") {
 					scope.cred="";
-					scope.corange="";
+					scope.cyellow="";
 					scope.cgreen="green";
 				} else if(value=="half_OK") {
 					scope.cred="";
@@ -51,7 +51,7 @@ var sgrTrafficLight = function () {
 					scope.cgreen="";
 				} else if(value=="KO") {
 					scope.cred="red";
-					scope.corange="";
+					scope.cyellow="";
 					scope.cgreen="";
 				} else if(value=="half_KO") {
 					scope.cred="red anim";
