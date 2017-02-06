@@ -18,3 +18,9 @@ Yes, you can. You can use it to make monitoring of your continuous integration p
 
 ## License
 BSD, See License.txt for details
+
+# Contributing
+
+The [issue tracker](https://github.com/sgrillon14/sgr-trafficlight/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
+
+For pull requests, editor preferences are available in the [editor config](.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
