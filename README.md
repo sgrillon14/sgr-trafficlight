@@ -1,10 +1,8 @@
 # sgr-trafficlight
 
 [![Join the chat at https://gitter.im/sgrillon14/sgr-trafficlight](https://badges.gitter.im/sgrillon14/sgr-trafficlight.svg)](https://gitter.im/sgrillon14/sgr-trafficlight?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 AngularJS Directive with a traffic light
-
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/sgrillon14/sgr-trafficlight?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-
 
 ## Technology
 * HTML
